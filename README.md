@@ -1,1 +1,1 @@
-# Zomato-Clone-Website
+A clone of the Zomato restaurant discovery platform, featuring restaurant search, user reviews, and ratings.Made with  web tools such as HTML,CSS,JavaScript for a responsive and engaging user experience.
